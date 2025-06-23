@@ -1,10 +1,11 @@
-# Hey there! 👋
+# What’s up, fellow cyber wanderer? 👾
 
-I'm **R4y63** — codename, obviously 😎  
-A **Cybersecurity Enthusiast** on a mission to break things (ethically) and learn how to defend them better.
+I’m **R4y63** — codename, because calling me by my real name sounds too boring 😎  
+A **Cybersecurity Enthusiast** on a mission to break stuff (ethically, of course) and then figure out how to stop the bad guys from doing the same.
 
-While I started out passionate about **Digital Forensics**, my current focus is shifting toward **Offensive Security** —  
-and this page is my evolving roadmap, tracking my journey, projects, goals, and skills.
+I started off digging through digital breadcrumbs in Forensics, but now I’m all about offensive moves — hacking with a purpose and learning every day.  
+This page is my playground, my lab notes, and my battle scars all rolled into one.
+
 ---
 
 ## 🎯 Goals
