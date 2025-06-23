@@ -1,9 +1,10 @@
-## 🧠 About Me
+# Hey there! 👋
 
-Hey, I’m **R4y63** — just your friendly neighborhood cyber gremlin 🐍  
-Started with **Digital Forensics**, now leaning deep into the world of **Offensive Security**.  
-This README is my command center — tracking my goals, skills, and tools of choice.
+I'm **R4y63** — codename, obviously 😎  
+A **Cybersecurity Enthusiast** on a mission to break things (ethically) and learn how to defend them better.
 
+While I started out passionate about **Digital Forensics**, my current focus is shifting toward **Offensive Security** —  
+and this page is my evolving roadmap, tracking my journey, projects, goals, and skills.
 ---
 
 ## 🎯 Goals
