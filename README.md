@@ -93,7 +93,6 @@ This page is my playground, my lab notes, and my battle scars all rolled into on
 | Sonic Visualizer            |                               |                              |
 |                             |                               |                              |
 | 🧪 Web Exploitation         | 🧠 Other / Utility             |                              |
-|-----------------------------|-------------------------------|------------------------------|
 | Burp Suite                  | Binwalk                       |                              |
 |                             | Steghide                      |                              |
 |                             | Sonic Visualizer              |                              |
