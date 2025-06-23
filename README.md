@@ -32,34 +32,56 @@ This page is my playground, my lab notes, and my battle scars all rolled into on
 ### 🧷 Technical Skills
 
 - **🧑‍💻 Programming & Scripting**
-  - `C`, `C++`, `Java`, Basic `Bash`
+  - `C`, `C++`, `Java`, Basic `Bash`, Python (pentesting scripts), PowerShell basics
 
 - **💻 Operating Systems**
-  - Kali Linux, Parrot OS, Windows, Linux Filesystem
+  - Kali Linux, Parrot OS, Windows, Linux Filesystem, LXD Containers
 
 - **🧪 Penetration Testing**
-  - Network enumeration & scanning (🔍 Nmap, 🧠 Netcat)
-  - Web exploitation (🕷️ Burp Suite, OWASP Top 10, manual SQLi)
-  - Password attacks (🔓 Hydra, 🧠 John the Ripper, 💥 Hashcat)
+  - Network enumeration & scanning (🔍 Nmap, 🧠 Netcat, Wireshark)
+  - Web exploitation (🕷️ Burp Suite, OWASP Top 10, SQLmap)
+  - Password attacks (🔓 Hydra, 🧠 John the Ripper, 💥 Hashcat, Hash-Identifier)
   - Shells: Reverse shell, bind shell, shell stabilizing
   - CTF machine exploitation (TryHackMe, VulnHub)
+  - Buffer overflow basics & exploitation
+  - Privilege escalation techniques (Linux & Windows)
 
-- **🕵️ Digital Forensics**
+- **🕵️ Digital Forensics & Steganography**
   - Memory analysis with Volatility 3
   - Metadata extraction (📷 ExifTool)
   - File carving (📦 Foremost, Binwalk)
   - FTK Imager usage
   - Audio/spectrogram analysis (🎵 Sonic Visualizer)
+  - Steghide, strings, stegseek
 
-- **🧙 Steganography & OSINT**
-  - Tools: Steghide, strings, stegseek, exiftool
-  - File inspection techniques
-  - Google Dorking (a.k.a. Google Fu 🧠)
+- **🌐 Networking & Reconnaissance**
+  - Ports, protocols, IP ranges, subnetting
+  - NAT, Bridged, Host-only networking
+  - Basic firewall & service enumeration
+  - HTTP requests & scripting (curl, wget)
+  - Google Dorking (Google Fu 🧠)
 
-- **🌐 Networking Basics**
-  - IP/Subnetting, NAT, Bridged/Host-only networking
-  - Ports & protocols
-  - Network service enumeration
+---
+
+### ⚙️ Tools of the Trade
+
+| 🕵️‍♀️ Forensics & Stego     | 🔓 Cracking & Attacks         | 🌐 Scanning & Enumeration   |
+|-----------------------------|-------------------------------|------------------------------|
+| Autopsy                     | Hashcat                       | Nmap                         |
+| FTK Imager                  | John the Ripper               | Gobuster                     |
+| Volatility 3                | Hydra                         | Netcat                       |
+| ExifTool                    | Hash-Identifier               | Wireshark                    |
+| Binwalk                     |                               | SQLmap                       |
+| Foremost                    |                               |                              |
+| Steghide                    |                               |                              |
+| Sonic Visualizer            |                               |                              |
+|                             |                               |                              |
+| 🧪 Web Exploitation         | 🧠 Other / Utility             |                              |
+| Burp Suite                  | Binwalk                       |                              |
+| Metasploit                  | Steghide                      |                              |
+|                             | Sonic Visualizer              |                              |
+|                             | Google Dorking                |                              |
+|                             | wget                         |                              |
 
 ---
 
@@ -73,30 +95,7 @@ This page is my playground, my lab notes, and my battle scars all rolled into on
 
 ---
 
-### 🧩 CTF-Focused Experience
-
-- 🔐 Categories tackled:
-  - Web Exploitation, Stego, Forensics, Crypto, RE, OSINT
-- 🏆 Platforms: TryHackMe, VulnHub, self-made layered CTFs
-- 🧠 Custom challenge creator (example: chocolate cake stego polyglot 🍰)
-## ⚙️ Tools of the Trade
-
-| 🕵️‍♀️ Forensics & Stego     | 🔓 Cracking & Attacks         | 🌐 Scanning & Enumeration   |
-|-----------------------------|-------------------------------|------------------------------|
-| Autopsy                     | Hashcat                       | Nmap                         |
-| FTK Imager                  | John the Ripper               | Gobuster                     |
-| Volatility 3                | Hydra                         | Netcat                       |
-| ExifTool                    |                               |                              |
-| Binwalk                     |                               |                              |
-| Foremost                    |                               |                              |
-| Steghide                    |                               |                              |
-| Sonic Visualizer            |                               |                              |
-|                             |                               |                              |
-| 🧪 Web Exploitation         | 🧠 Other / Utility             |                              |
-| Burp Suite                  | Binwalk                       |                              |
-|                             | Steghide                      |                              |
-|                             | Sonic Visualizer              |                              |
------------
+If you want, I can also help you add these concepts as bullet points under a separate “Core Concepts” heading!
 
 ## 🏅 My TryHackMe Badge
 
