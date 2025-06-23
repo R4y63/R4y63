@@ -9,10 +9,16 @@ This page is my playground, my lab notes, and my battle scars all rolled into on
 ---
 
 ## 🎯 Goals
-
 ### 📌 Short-Term
-- 🔍 Learn Penetration Testing techniques
-- 🧪 Strengthen & apply Digital Forensics knowledge
+- 🔍 Learn advanced Penetration Testing techniques  
+- ⚙️ Master exploitation frameworks like Metasploit and Empire  
+- 🛠️ Build custom payloads and reverse shells from scratch  
+- 🧩 Sharpen CTF skills across Stego, Crypto, and Reverse Engineering  
+- 🔐 Deepen network security knowledge and evade defenses like a pro  
+- 📚 Prepare for eJPT certification and other entry-level pentest certs  
+- 🤖 Automate pentesting tasks with Python and Bash scripting  
+- 🕵️ Practice vulnerability research and responsible disclosure  
+
 
 ### 🧠 Long-Term
 - 🌍 Contribute to open-source infosec tools
