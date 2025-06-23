@@ -34,4 +34,13 @@ This README is my command center — tracking my goals, skills, and tools of cho
 ---
 
 ## ⚙️ Tools I Break (I mean, Use)
+| Forensics & Analysis      | Cracking & Attacks         | Scanning & OSINT          |
+|---------------------------|----------------------------|---------------------------|
+| 🕵️ Autopsy               | 🔓 Hashcat                 | 🌐 Nmap                  |
+| 📷 ExifTool              | 🧠 John the Ripper         | 🧰 Binwalk               |
+| 🗃️ FTK Imager            | 🐍 Hydra                   | 🔍 Foremost              |
+| 🎵 Sonic Visualizer      |                            |                           |
+| 🧠 Volatility 3          |                            |                           |
+| 🕶️ Steghide              |                            |                           |
+
 
