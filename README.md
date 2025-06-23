@@ -44,3 +44,21 @@ This README is my command center — tracking my goals, skills, and tools of cho
 | 🕶️ Steghide              |                            |                           |
 
 
+## 🏅 My TryHackMe Badge
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/profile/badge/2623082.png" alt="TryHackMe Badge" width="250" />
+</p>
+
+---
+
+## 📬 Contact Me
+
+| Platform    | Link                                                                                   |
+| ----------- | -------------------------------------------------------------------------------------- |
+| 💼 LinkedIn | [apurba-sutradhar](https://www.linkedin.com/in/apurba-sutradhar-1938a82bb/)            |
+| 🧠 TryHackMe| [Ray63](https://tryhackme.com/p/Ray63)                                                |
+| 📧 Email    | [your.email@example.com](mailto:your.email@example.com)  <!-- Replace with your email -->|
+
+---
+
