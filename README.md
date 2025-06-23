@@ -114,8 +114,6 @@ If you want, I can also help you add these concepts as bullet points under a sep
 
 ### 🛠️ Challenge Author @ NCC Intra CTF 2025
 
-![Challenge Author](https://img.shields.io/badge/NCC%20CTF%202025-Challenge%20Author-%2300ffcc?style=for-the-badge&logo=target&logoColor=black)
-
 I had the amazing opportunity to create custom CTF challenges for our university’s internal Capture the Flag competition — **NCC Intra CTF 2025**.
 
 🧠 **Categories I worked on:**
