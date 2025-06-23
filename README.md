@@ -20,30 +20,77 @@ and this page is my evolving roadmap, tracking my journey, projects, goals, and 
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
-### 🧷 Technical
-- **Languages:** `C`, `C++`, `Java`
-- **Systems & Tools:** `Kali Linux`, `Terminal`, `Autopsy`, `Volatility 3`
+### 🧷 Technical Skills
 
-### 🧠 Non-Technical
-- Project Management ✅  
-- Leadership 💡  
-- Communication 🗣️  
-- Team Building 🤝  
+- **🧑‍💻 Programming & Scripting**
+  - `C`, `C++`, `Java`, Basic `Bash`
+
+- **💻 Operating Systems**
+  - Kali Linux, Parrot OS, Windows, Linux Filesystem
+
+- **🧪 Penetration Testing**
+  - Network enumeration & scanning (🔍 Nmap, 🧠 Netcat)
+  - Web exploitation (🕷️ Burp Suite, OWASP Top 10, manual SQLi)
+  - Password attacks (🔓 Hydra, 🧠 John the Ripper, 💥 Hashcat)
+  - Shells: Reverse shell, bind shell, shell stabilizing
+  - CTF machine exploitation (TryHackMe, VulnHub)
+
+- **🕵️ Digital Forensics**
+  - Memory analysis with Volatility 3
+  - Metadata extraction (📷 ExifTool)
+  - File carving (📦 Foremost, Binwalk)
+  - FTK Imager usage
+  - Audio/spectrogram analysis (🎵 Sonic Visualizer)
+
+- **🧙 Steganography & OSINT**
+  - Tools: Steghide, strings, stegseek, exiftool
+  - File inspection techniques
+  - Google Dorking (a.k.a. Google Fu 🧠)
+
+- **🌐 Networking Basics**
+  - IP/Subnetting, NAT, Bridged/Host-only networking
+  - Ports & protocols
+  - Network service enumeration
 
 ---
 
-## ⚙️ Tools I Break (I mean, Use)
-| Forensics & Analysis      | Cracking & Attacks         | Scanning & OSINT          |
-|---------------------------|----------------------------|---------------------------|
-| 🕵️ Autopsy               | 🔓 Hashcat                 | 🌐 Nmap                  |
-| 📷 ExifTool              | 🧠 John the Ripper         | 🧰 Binwalk               |
-| 🗃️ FTK Imager            | 🐍 Hydra                   | 🔍 Foremost              |
-| 🎵 Sonic Visualizer      |                            |                           |
-| 🧠 Volatility 3          |                            |                           |
-| 🕶️ Steghide              |                            |                           |
+### 💼 Soft Skills
 
+- 📋 Project Management
+- 👥 Team Collaboration
+- 🧠 Problem Solving
+- 🎤 Technical Communication
+- 🎓 Mentoring & Leadership (Cybersecurity Club, CTFs)
+
+---
+
+### 🧩 CTF-Focused Experience
+
+- 🔐 Categories tackled:
+  - Web Exploitation, Stego, Forensics, Crypto, RE, OSINT
+- 🏆 Platforms: TryHackMe, VulnHub, self-made layered CTFs
+- 🧠 Custom challenge creator (example: chocolate cake stego polyglot 🍰)
+## ⚙️ Tools of the Trade
+
+| 🕵️‍♀️ Forensics & Stego     | 🔓 Cracking & Attacks         | 🌐 Scanning & Enumeration   |
+|-----------------------------|-------------------------------|------------------------------|
+| Autopsy                     | Hashcat                       | Nmap                         |
+| FTK Imager                  | John the Ripper               | Gobuster                     |
+| Volatility 3                | Hydra                         | Netcat                       |
+| ExifTool                    |                               |                              |
+| Binwalk                     |                               |                              |
+| Foremost                    |                               |                              |
+| Steghide                    |                               |                              |
+| Sonic Visualizer            |                               |                              |
+|                             |                               |                              |
+| 🧪 Web Exploitation         | 🧠 Other / Utility             |                              |
+|-----------------------------|-------------------------------|------------------------------|
+| Burp Suite                  | Binwalk                       |                              |
+|                             | Steghide                      |                              |
+|                             | Sonic Visualizer              |                              |
+-----------
 
 ## 🏅 My TryHackMe Badge
 
@@ -58,6 +105,24 @@ and this page is my evolving roadmap, tracking my journey, projects, goals, and 
 </p>
 
 ---
+## 📂 Projects & Contributions
+
+### 🛠️ Challenge Author @ NCC Intra CTF 2025
+
+![Challenge Author](https://img.shields.io/badge/NCC%20CTF%202025-Challenge%20Author-%2300ffcc?style=for-the-badge&logo=target&logoColor=black)
+
+I had the amazing opportunity to create custom CTF challenges for our university’s internal Capture the Flag competition — **NCC Intra CTF 2025**.
+
+🧠 **Categories I worked on:**
+- 🥷 Steganography
+- 🧩 Puzzle & Brainstorming
+- 🔍 Forensics & Reconnaissance
+
+> 🛡️ The challenge set will be released soon after the event kicks off.  
+> Stay tuned for some tricky, layered, and educational puzzles!  
+
+> All challenges were created, tested, and authored by me as part of the event’s core content team.
+
 
 ## 📬 Contact Me
 
